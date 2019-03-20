@@ -129,6 +129,8 @@ def problem1(circle, rectangle, color, length, window):
     line.thickness = circle.outline_thickness
     line.attach_to(window)
     window.render()
+    # new_line = line.get_midpoint()
+    # length = new_line.
 
 
 
